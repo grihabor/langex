@@ -1,0 +1,8 @@
+Host: en.language.exchange
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: identity
+Connection: keep-alive
+Cookie: userLanguage=EN; s1=dS9ZUk5EOWRROURPUHY2bUxsV1h3VzhJaDRtR0U5UTBpRFVDbkdVdFFIelpSbWRvcDdwdGhzSXpMczB3UmtyVg%3D%3D; t1=ZEE1Z09kMXJNb3V4UjEzYkxWdjZjdGJTdm1GbXdJRjVYbWlrbEpIWnZrMDVVakhwUjFxNTZQb01MVFdXbHh0c2lsbjJJL0NuSXJiaDNEd0xmeDc0cnc9PQ%3D%3D; _ga=GA1.2.1943321275.1592085472; z1=cVB5cklsM1E3NUg5a2ozVHpZaU8zUT09; l1=WGxaRFUvOGlyTDh5TGcybDdoNzNPZ3F2WldyL0VsdEhRY3hhMzR4Vk1LRT0%3D; p1=NWppQWcwRWtkZzlrRmQyZnNUdzZwSnpXZTUzd3FwRVBPdUZFNnd0K2ZESFBCUjI3SXg3V3RaUXNMZVFvN2FxelV3cUVRVHZ4WWFyUExpWGxCQVBjVnhVQWFoRGVxQ2p4QkZ0NGgwRis2ZzJORjk1bFdnR1d6S0pkdzd0ZVVCZkJ0MkdFU1dlS001YVlrUTNXS0FlVzRaOFg5MUF3L0ZVckJicFpiRXFGRE9OeXNpMXcvZkVMM2MrdTU5aEJyVVY4MzB6emZlZ2RGZFFpMlJEMjhIQmhVektWSks0Y28zYzUzczJheEl3UDZYZz0%3D; _gid=GA1.2.590987711.1592294916; PHPSESSID=4be9a0c064c1374e791aac443e737e09
+Upgrade-Insecure-Requests: 1
